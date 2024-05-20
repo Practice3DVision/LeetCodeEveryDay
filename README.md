@@ -62,3 +62,4 @@ return x == snaps_[index].begin() ? 0 : std::prev(x)->second;
 2. 同时让快指针慢指针运动，当快指针走到末尾时，满指针所指位置即为要求的节点
 #### Day 24. 链表相交
 #### Day 25. 环形链表 II
+#### Day 26. 有效的字母异位词
